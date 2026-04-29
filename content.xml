@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429151152RTLGI2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429151152IP7YH5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Podcast del medio ambiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para el desarrollo de la competencia digital en el alumnado de 1º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Aitana María Rosquete Zarza - IES Mar de Alborán</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777468302186</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mok2qfd8-2ojv416k9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfd8-2ojv416k9</odePageId>
+      <odeBlockId>block-1777408591543-2kpo0h4fc</odeBlockId>
+      <blockName>Portada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfd8-2ojv416k9</odePageId>
+          <odeBlockId>block-1777408591543-2kpo0h4fc</odeBlockId>
+          <odeIdeviceId>idevice-1777408591541-fy4vzk2jt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h6 class="exe-figure position-center" style="width: 318px; text-align: center;"><img src="{{context_path}}/content/resources/download.jpg" width="384" height="192" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><em><a href="https://fundeu.do/medioambiente-y-medioambiental-mejor-que-medio-ambiente-o-medio-ambiental/" class="author" target="_blank" rel="noopener">Fundeu Guzmán Ariza</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></em></h6>
+<p>Nombre del Proyecto: "El Podcast del Medioambiente"</p>
+<p>Nivel educativo: 1º ESO</p>
+<p>Área o materia: Biología y Geología</p>
+<p>Duración: 10 sesiones</p>
+<p>Temporalización: Mes de junio</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777408591541-fy4vzk2jt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h6 class=\"exe-figure position-center\" style=\"width: 318px; text-align: center;\"><img src=\"{{context_path}}/content/resources/download.jpg\" width=\"384\" height=\"192\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><em><a href=\"https://fundeu.do/medioambiente-y-medioambiental-mejor-que-medio-ambiente-o-medio-ambiental/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Fundeu Guzmán Ariza</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></em></h6>\n<p>Nombre del Proyecto: \"El Podcast del Medioambiente\"</p>\n<p>Nivel educativo: 1º ESO</p>\n<p>Área o materia: Biología y Geología</p>\n<p>Duración: 10 sesiones</p>\n<p>Temporalización: Mes de junio</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdg-0uhf04u9n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdg-0uhf04u9n</odePageId>
+      <odeBlockId>block-1777409526965-ejw2mxad8</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdg-0uhf04u9n</odePageId>
+          <odeBlockId>block-1777409526965-ejw2mxad8</odeBlockId>
+          <odeIdeviceId>idevice-1777409526963-0oacu4i2m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">El proyecto que se presenta como producto final se titula <strong>Hacia el Desarrollo Sostenible</strong> y se enmarca dentro del diseño de una situación de aprendizaje orientada a promover en el alumnado la comprensión crítica de los problemas medioambientales actuales y el desarrollo de actitudes responsables hacia el entorno. La propuesta surge a partir del análisis previo realizado mediante la rutina de pensamiento de Gibbs, donde se reflexiona sobre el contexto educativo, las necesidades del alumnado y la relevancia social del aprendizaje.</p>
+<p style="text-align: center;">El<strong> centro de interés</strong> del proyecto gira en torno al desarrollo sostenible, abordando aspectos fundamentales como el cambio climático, la salud ambiental, los hábitos sostenibles y los Objetivos de Desarrollo Sostenible. Esta temática permite conectar los contenidos científicos con situaciones reales cercanas al alumnado, favoreciendo aprendizajes funcionales que trascienden el aula y contribuyen a la formación de una ciudadanía comprometida con la conservación del medio ambiente. La elección de esta temática responde a la necesidad de trabajar desafíos actuales del siglo XXI desde una perspectiva educativa que integre conocimientos, destrezas y actitudes.</p>
+<p style="text-align: center;">La situación de aprendizaje está dirigida al alumnado de 1º de Educación Secundaria Obligatoria, etapa caracterizada por importantes cambios cognitivos, sociales y emocionales propios del inicio de la adolescencia. En este momento evolutivo resulta especialmente adecuado plantear experiencias educativas significativas que conecten con sus intereses, fomenten la reflexión personal y favorezcan la construcción progresiva del pensamiento crítico. El diseño del proyecto tiene en cuenta las características psicológicas del alumnado, así como sus ideas previas sobre el medio ambiente, entendiendo que estas constituyen el punto de partida imprescindible para la construcción de nuevos aprendizajes.</p>
+<p style="text-align: center;">La temporalización aproximada corresponde al tercer trimestre del curso escolar, situándose como unidad de cierre del bloque relacionado con la ecología y la sostenibilidad. Esta ubicación permite integrar aprendizajes desarrollados previamente sobre ecosistemas y conservación, facilitando una visión global y coherente del conocimiento científico adquirido durante el curso. El proyecto se desarrolla a través de nueve sesiones en las que se combinan actividades de motivación inicial, investigación, análisis de información, trabajo cooperativo y elaboración de un producto final competencial.</p>
+<p style="text-align: center;">La materia principal implicada es Biología y Geología, aunque la propuesta adopta un enfoque claramente interdisciplinar. Se establecen conexiones con otras áreas como Geografía e Historia, mediante el análisis del patrimonio natural y la biodiversidad; Educación Física, a través del fomento de estilos de vida saludables y sostenibles; y la competencia digital, mediante el uso responsable de tecnologías para la búsqueda, selección y difusión de información científica. Este enfoque globalizador favorece la transferencia de aprendizajes entre materias y refuerza el carácter competencial del currículo.</p>
+<p style="text-align: center;">El idioma vehicular del proyecto es la lengua castellana, empleada para la comunicación oral y escrita, la comprensión de textos científicos y la exposición de conclusiones. No obstante, se incorporan elementos plurilingües mediante el uso de vocabulario científico y actividades específicas que contribuyen al desarrollo de la competencia lingüística en diferentes contextos comunicativos.</p>
+<p style="text-align: center;">Desde una perspectiva educativa, el proyecto pretende que el alumnado comprenda las causas y consecuencias del cambio climático, analice su impacto sobre los ecosistemas y los seres vivos, establezca relaciones entre la salud humana y la salud ambiental, identifique hábitos sostenibles aplicables a su vida cotidiana y conozca la importancia de los Objetivos de Desarrollo Sostenible como marco global de actuación. Más allá de la adquisición de conocimientos conceptuales, se busca promover actitudes responsables, pensamiento crítico y participación activa en la mejora del entorno cercano.</p>
+<p style="text-align: center;">La justificación del proyecto se fundamenta en la rutina de pensamiento de Gibbs. En la fase de descripción se identifica la necesidad de diseñar una propuesta educativa contextualizada que responda tanto a las demandas curriculares como a los retos sociales actuales relacionados con la sostenibilidad. El análisis del contexto revela la importancia de partir de las ideas previas del alumnado y de ofrecer experiencias de aprendizaje significativas basadas en situaciones reales.</p>
+<p style="text-align: center;">En relación con los sentimientos, la reflexión docente pone de manifiesto la necesidad de aumentar la motivación del alumnado mediante temáticas próximas a su realidad cotidiana. La educación ambiental genera implicación emocional al permitir que el alumnado se reconozca como agente activo capaz de contribuir a la mejora del entorno, favoreciendo así un aprendizaje más profundo y duradero.</p>
+<p style="text-align: center;">La evaluación realizada durante el proceso reflexivo evidencia que el enfoque metodológico activo y participativo resulta adecuado para alcanzar los objetivos planteados. El trabajo cooperativo, la investigación guiada, el uso de tecnologías digitales y la integración del aprendizaje formal e informal favorecen la implicación del alumnado y permiten desarrollar competencias clave relacionadas con la comunicación, el pensamiento científico y la ciudadanía responsable.</p>
+<p style="text-align: center;">Desde el análisis pedagógico, el proyecto responde al modelo de aprendizaje competencial promovido por la normativa educativa vigente, en el que el alumnado moviliza conocimientos, habilidades y actitudes para resolver situaciones complejas vinculadas a la vida real. La interdisciplinariedad, el uso de metodologías activas y la contextualización de los contenidos contribuyen a un aprendizaje significativo alineado con los Objetivos de Desarrollo Sostenible y con el desarrollo integral del alumnado.</p>
+<p style="text-align: center;">Finalmente, la conclusión derivada de la rutina de pensamiento confirma la pertinencia educativa del proyecto. La propuesta no solo facilita la adquisición de saberes científicos, sino que fomenta valores sociales, conciencia ambiental y responsabilidad ciudadana. Trabajar el desarrollo sostenible en 1º de ESO permite sentar las bases para futuros aprendizajes científicos y contribuye a formar personas críticas, autónomas y comprometidas con los desafíos ambientales y sociales del presente y del futuro.</p>
+<p style="text-align: center;"> ¡Ánimo y a trabajar!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777409526963-0oacu4i2m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">El proyecto que se presenta como producto final se titula <strong>Hacia el Desarrollo Sostenible</strong> y se enmarca dentro del diseño de una situación de aprendizaje orientada a promover en el alumnado la comprensión crítica de los problemas medioambientales actuales y el desarrollo de actitudes responsables hacia el entorno. La propuesta surge a partir del análisis previo realizado mediante la rutina de pensamiento de Gibbs, donde se reflexiona sobre el contexto educativo, las necesidades del alumnado y la relevancia social del aprendizaje.</p>\n<p style=\"text-align: center;\">El<strong> centro de interés</strong> del proyecto gira en torno al desarrollo sostenible, abordando aspectos fundamentales como el cambio climático, la salud ambiental, los hábitos sostenibles y los Objetivos de Desarrollo Sostenible. Esta temática permite conectar los contenidos científicos con situaciones reales cercanas al alumnado, favoreciendo aprendizajes funcionales que trascienden el aula y contribuyen a la formación de una ciudadanía comprometida con la conservación del medio ambiente. La elección de esta temática responde a la necesidad de trabajar desafíos actuales del siglo XXI desde una perspectiva educativa que integre conocimientos, destrezas y actitudes.</p>\n<p style=\"text-align: center;\">La situación de aprendizaje está dirigida al alumnado de 1º de Educación Secundaria Obligatoria, etapa caracterizada por importantes cambios cognitivos, sociales y emocionales propios del inicio de la adolescencia. En este momento evolutivo resulta especialmente adecuado plantear experiencias educativas significativas que conecten con sus intereses, fomenten la reflexión personal y favorezcan la construcción progresiva del pensamiento crítico. El diseño del proyecto tiene en cuenta las características psicológicas del alumnado, así como sus ideas previas sobre el medio ambiente, entendiendo que estas constituyen el punto de partida imprescindible para la construcción de nuevos aprendizajes.</p>\n<p style=\"text-align: center;\">La temporalización aproximada corresponde al tercer trimestre del curso escolar, situándose como unidad de cierre del bloque relacionado con la ecología y la sostenibilidad. Esta ubicación permite integrar aprendizajes desarrollados previamente sobre ecosistemas y conservación, facilitando una visión global y coherente del conocimiento científico adquirido durante el curso. El proyecto se desarrolla a través de nueve sesiones en las que se combinan actividades de motivación inicial, investigación, análisis de información, trabajo cooperativo y elaboración de un producto final competencial.</p>\n<p style=\"text-align: center;\">La materia principal implicada es Biología y Geología, aunque la propuesta adopta un enfoque claramente interdisciplinar. Se establecen conexiones con otras áreas como Geografía e Historia, mediante el análisis del patrimonio natural y la biodiversidad; Educación Física, a través del fomento de estilos de vida saludables y sostenibles; y la competencia digital, mediante el uso responsable de tecnologías para la búsqueda, selección y difusión de información científica. Este enfoque globalizador favorece la transferencia de aprendizajes entre materias y refuerza el carácter competencial del currículo.</p>\n<p style=\"text-align: center;\">El idioma vehicular del proyecto es la lengua castellana, empleada para la comunicación oral y escrita, la comprensión de textos científicos y la exposición de conclusiones. No obstante, se incorporan elementos plurilingües mediante el uso de vocabulario científico y actividades específicas que contribuyen al desarrollo de la competencia lingüística en diferentes contextos comunicativos.</p>\n<p style=\"text-align: center;\">Desde una perspectiva educativa, el proyecto pretende que el alumnado comprenda las causas y consecuencias del cambio climático, analice su impacto sobre los ecosistemas y los seres vivos, establezca relaciones entre la salud humana y la salud ambiental, identifique hábitos sostenibles aplicables a su vida cotidiana y conozca la importancia de los Objetivos de Desarrollo Sostenible como marco global de actuación. Más allá de la adquisición de conocimientos conceptuales, se busca promover actitudes responsables, pensamiento crítico y participación activa en la mejora del entorno cercano.</p>\n<p style=\"text-align: center;\">La justificación del proyecto se fundamenta en la rutina de pensamiento de Gibbs. En la fase de descripción se identifica la necesidad de diseñar una propuesta educativa contextualizada que responda tanto a las demandas curriculares como a los retos sociales actuales relacionados con la sostenibilidad. El análisis del contexto revela la importancia de partir de las ideas previas del alumnado y de ofrecer experiencias de aprendizaje significativas basadas en situaciones reales.</p>\n<p style=\"text-align: center;\">En relación con los sentimientos, la reflexión docente pone de manifiesto la necesidad de aumentar la motivación del alumnado mediante temáticas próximas a su realidad cotidiana. La educación ambiental genera implicación emocional al permitir que el alumnado se reconozca como agente activo capaz de contribuir a la mejora del entorno, favoreciendo así un aprendizaje más profundo y duradero.</p>\n<p style=\"text-align: center;\">La evaluación realizada durante el proceso reflexivo evidencia que el enfoque metodológico activo y participativo resulta adecuado para alcanzar los objetivos planteados. El trabajo cooperativo, la investigación guiada, el uso de tecnologías digitales y la integración del aprendizaje formal e informal favorecen la implicación del alumnado y permiten desarrollar competencias clave relacionadas con la comunicación, el pensamiento científico y la ciudadanía responsable.</p>\n<p style=\"text-align: center;\">Desde el análisis pedagógico, el proyecto responde al modelo de aprendizaje competencial promovido por la normativa educativa vigente, en el que el alumnado moviliza conocimientos, habilidades y actitudes para resolver situaciones complejas vinculadas a la vida real. La interdisciplinariedad, el uso de metodologías activas y la contextualización de los contenidos contribuyen a un aprendizaje significativo alineado con los Objetivos de Desarrollo Sostenible y con el desarrollo integral del alumnado.</p>\n<p style=\"text-align: center;\">Finalmente, la conclusión derivada de la rutina de pensamiento confirma la pertinencia educativa del proyecto. La propuesta no solo facilita la adquisición de saberes científicos, sino que fomenta valores sociales, conciencia ambiental y responsabilidad ciudadana. Trabajar el desarrollo sostenible en 1º de ESO permite sentar las bases para futuros aprendizajes científicos y contribuye a formar personas críticas, autónomas y comprometidas con los desafíos ambientales y sociales del presente y del futuro.</p>\n<p style=\"text-align: center;\"> ¡Ánimo y a trabajar!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdi-wxjfqsp4l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información sobre protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Información sobre protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdi-wxjfqsp4l</odePageId>
+      <odeBlockId>block-1777409778872-d22kz30pj</odeBlockId>
+      <blockName>Seguridad digital para estudiantes (Infografía)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdi-wxjfqsp4l</odePageId>
+          <odeBlockId>block-1777409778872-d22kz30pj</odeBlockId>
+          <odeIdeviceId>idevice-1777409778868-mfn326uks</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777409778868-mfn326uks" title="" href="{{context_path}}/content/resources/Infographic on Digital Security for Students.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infographic on Digital Security for Students.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777409778868-mfn326uks","img_0":{"img":"{{context_path}}/content/resources/Infographic on Digital Security for Students.jpg","thumbnail":"{{context_path}}/content/resources/Infographic on Digital Security for Students.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdj-a31tybiqe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdj-a31tybiqe</odePageId>
+      <odeBlockId>block-1777410186729-zytb4tu0z</odeBlockId>
+      <blockName>Producto final y herramientas a usar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdj-a31tybiqe</odePageId>
+          <odeBlockId>block-1777410186729-zytb4tu0z</odeBlockId>
+          <odeIdeviceId>idevice-1777410186724-77mlywbiz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10 sesiones</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 4-5</dd></div></dl><p style="text-align: justify;">En nuestra Situación de Aprendizaje de Biología y Geología, el alumnado de 1º ESO creará un podcast de varios capítulos sobre los siguientes temas:</p>
+<p style="text-align: justify;">- Causas y consecuencias del cambio climático<br />- Hábitos sostenibles<br />- Objetivos de desarrollo sostenible</p>
+<p style="text-align: justify;"><br />Cada capítulo será grabado por los grupos en <strong>formato audio o video</strong>, y al final se seleccionará<em> un capítulo de cada grupo para formar un podcast completo que se colgará en la web del instituto.</em></p>
+<p style="text-align: justify;">Para la realización del producto final, se proponen las siguientes herramientas digitales:</p>
+<p style="text-align: justify;"><strong title="Anchor fm">Anchor.fm</strong> (o plataformas similares como Soundtrap o Podomatic) <a href="https://creators.spotify.com/" title="Anchor fm" target="_blank" rel="noopener">https://creators.spotify.com/</a></p>
+<p style="text-align: justify;">- Objetivo: Permite grabar, editar y publicar los episodios de forma sencilla.<br />-Justificación: Anchor es gratuita, accesible desde cualquier dispositivo (ordenador, tablet o móvil) y no requiere instalación compleja. Además, permite mezclar pistas, añadir música y efectos, y publicar el podcast directamente en la web del instituto o plataformas externas.</p>
+<p style="text-align: justify;"><br title="Canva" /><strong>Canva / Clipchamp / iMovie</strong> (para capítulos en video) <a href="https://www.canva.com/templates" title="Canva">https://www.canva.com/templates</a></p>
+<p style="text-align: justify;">- Objetivo: Editar y enriquecer los vídeos con imágenes, subtítulos y gráficos que apoyen la explicación del contenido.<br />- Justificación: Estas herramientas son versátiles y fáciles de usar, con plantillas prediseñadas y recursos multimedia, lo que facilita la creación de contenidos atractivos para el alumnado. Se adaptan a distintos niveles de competencia digital y a dispositivos disponibles en el centro.</p>
+<p style="text-align: justify;"><br /><strong title="Google Drive">Google Drive / OneDrive </strong><a href="https://workspace.google.com/intl/es/products/drive/" title="Google Drive">https://workspace.google.com/intl/es/products/drive/</a></p>
+<p style="text-align: justify;">- Objetivo: Servir como repositorio seguro donde los grupos puedan almacenar sus grabaciones y recursos multimedia, facilitando la colaboración y revisión por parte del profesorado.<br />- Justificación: Son herramientas que ya forman parte del entorno educativo del instituto y permiten trabajo colaborativo, control de versiones y acceso remoto, adaptándose al contexto del centro y a las necesidades de organización del proyecto.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777410186724-77mlywbiz","textInfoDurationInput":"10 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 4-5","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 4-5</dd></div></dl><p style=\"text-align: justify;\">En nuestra Situación de Aprendizaje de Biología y Geología, el alumnado de 1º ESO creará un podcast de varios capítulos sobre los siguientes temas:</p>\n<p style=\"text-align: justify;\">- Causas y consecuencias del cambio climático<br />- Hábitos sostenibles<br />- Objetivos de desarrollo sostenible</p>\n<p style=\"text-align: justify;\"><br />Cada capítulo será grabado por los grupos en <strong>formato audio o video</strong>, y al final se seleccionará<em> un capítulo de cada grupo para formar un podcast completo que se colgará en la web del instituto.</em></p>\n<p style=\"text-align: justify;\">Para la realización del producto final, se proponen las siguientes herramientas digitales:</p>\n<p style=\"text-align: justify;\"><strong title=\"Anchor fm\">Anchor.fm</strong> (o plataformas similares como Soundtrap o Podomatic) <a href=\"https://creators.spotify.com/\" title=\"Anchor fm\" target=\"_blank\" rel=\"noopener\">https://creators.spotify.com/</a></p>\n<p style=\"text-align: justify;\">- Objetivo: Permite grabar, editar y publicar los episodios de forma sencilla.<br />-Justificación: Anchor es gratuita, accesible desde cualquier dispositivo (ordenador, tablet o móvil) y no requiere instalación compleja. Además, permite mezclar pistas, añadir música y efectos, y publicar el podcast directamente en la web del instituto o plataformas externas.</p>\n<p style=\"text-align: justify;\"><br title=\"Canva\" /><strong>Canva / Clipchamp / iMovie</strong> (para capítulos en video) <a href=\"https://www.canva.com/templates\" title=\"Canva\">https://www.canva.com/templates</a></p>\n<p style=\"text-align: justify;\">- Objetivo: Editar y enriquecer los vídeos con imágenes, subtítulos y gráficos que apoyen la explicación del contenido.<br />- Justificación: Estas herramientas son versátiles y fáciles de usar, con plantillas prediseñadas y recursos multimedia, lo que facilita la creación de contenidos atractivos para el alumnado. Se adaptan a distintos niveles de competencia digital y a dispositivos disponibles en el centro.</p>\n<p style=\"text-align: justify;\"><br /><strong title=\"Google Drive\">Google Drive / OneDrive </strong><a href=\"https://workspace.google.com/intl/es/products/drive/\" title=\"Google Drive\">https://workspace.google.com/intl/es/products/drive/</a></p>\n<p style=\"text-align: justify;\">- Objetivo: Servir como repositorio seguro donde los grupos puedan almacenar sus grabaciones y recursos multimedia, facilitando la colaboración y revisión por parte del profesorado.<br />- Justificación: Son herramientas que ya forman parte del entorno educativo del instituto y permiten trabajo colaborativo, control de versiones y acceso remoto, adaptándose al contexto del centro y a las necesidades de organización del proyecto.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdk-0u1fzop0f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdk-0u1fzop0f</odePageId>
+      <odeBlockId>block-1777410794635-yovt4jda1</odeBlockId>
+      <blockName>Recursos para la realización del podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdk-0u1fzop0f</odePageId>
+          <odeBlockId>block-1777410794635-yovt4jda1</odeBlockId>
+          <odeIdeviceId>idevice-1777410794633-u8lsqplj4</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/aroszar713/recursos-para-el-podcast-del-medio-ambiente-5jte224aqon5uj3o" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok2qfdk-0u1fzop0f</odePageId>
+      <odeBlockId>block-1777411073141-omz4r5bf2</odeBlockId>
+      <blockName>Webs de interés para la realización del podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdk-0u1fzop0f</odePageId>
+          <odeBlockId>block-1777411073141-omz4r5bf2</odeBlockId>
+          <odeIdeviceId>idevice-1777411073138-yf1obdr5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí tenéis numerosas webs que pueden ser útiles a la hora de realizar el proyecto</p>
+<p><a href="https://www.symbaloo.com/mix/mi-webmix-ab7l" title="Symbaloo">https://www.symbaloo.com/mix/mi-webmix-ab7l</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777411073138-yf1obdr5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tenéis numerosas webs que pueden ser útiles a la hora de realizar el proyecto</p>\n<p><a href=\"https://www.symbaloo.com/mix/mi-webmix-ab7l\" title=\"Symbaloo\">https://www.symbaloo.com/mix/mi-webmix-ab7l</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdm-g4bc4tusx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdm-g4bc4tusx</odePageId>
+      <odeBlockId>block-1777411381724-4qi29fr1b</odeBlockId>
+      <blockName>Línea temporal Situación de Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdm-g4bc4tusx</odePageId>
+          <odeBlockId>block-1777411381724-4qi29fr1b</odeBlockId>
+          <odeIdeviceId>idevice-1777411381721-zlrm7kprk</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src=" https://padlet.com/aroszar713/temporalizaci-n-de-la-situaci-n-de-aprendizaje-onf1imdf6evd8icw" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+      <odeBlockId>block-1777411919147-giutf6w9f</odeBlockId>
+      <blockName>Actividades y criterios de evaluación asociados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+          <odeBlockId>block-1777411919147-giutf6w9f</odeBlockId>
+          <odeIdeviceId>idevice-1777411919146-hiyb13v7o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777411919146-hiyb13v7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+      <odeBlockId>block-1777412155182-exjazcf86</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+          <odeBlockId>block-1777412155182-exjazcf86</odeBlockId>
+          <odeIdeviceId>idevice-1777412155168-ez7ydvxjg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Instrumentos de evaluación empleados</p>
+<p><a href="{{context_path}}/content/resources/Tarea 8.pdf" title="Instrumentos de evaluación" target="_blank" rel="noopener">{{context_path}}/content/resources/Tarea 8.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777412155168-ez7ydvxjg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Instrumentos de evaluación empleados</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 8.pdf\" title=\"Instrumentos de evaluación\" target=\"_blank\" rel=\"noopener\">{{context_path}}/content/resources/Tarea 8.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+      <odeBlockId>block-1777412422951-4w8wwt9ou</odeBlockId>
+      <blockName>Criterios de evaluación asociados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdm-37ae04bxz</odePageId>
+          <odeBlockId>block-1777412422951-4w8wwt9ou</odeBlockId>
+          <odeIdeviceId>idevice-1777412422949-3g4gqin41</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1.1. Identificar y describir conceptos y procesos biológicos y geológicos básicos<br />relacionados con los saberes de la materia de Biología y Geología, localizando y seleccionando información en diferentes formatos (modelos, gráficos, tablas,<br />diagramas, formulas, esquemas, símbolos, páginas web, etc.), explicando en una o más lenguas las principales teorías vinculadas con la materia y su relación con la mejora de la vida de las personas, iniciando una actitud crítica sobre la potencialidad de su propia participación en la toma de decisiones y expresando e interpretando conclusiones.<br /></p>
+<p>2.2. Localizar e identificar la información sobre temas biológicos y geológicos con base científica, a través de distintos medios, comparando aquellas fuentes que tengan criterios de validez, calidad, actualidad y fiabilidad, iniciar el proceso de contraste con las pseudociencias, bulos, teorías conspiratorias y<br />creencias infundadas, y elegir los elementos clave en su interpretación que le permitan mantener una actitud escéptica ante estos.</p>
+<p>3.1. Analizar preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.<br /></p>
+<p>5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera critica las actividades propias y ajenas, a partir de los propios razonamientos,<br />de los conocimientos adquiridos y de la información disponible.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777412422949-3g4gqin41","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1.1. Identificar y describir conceptos y procesos biológicos y geológicos básicos<br />relacionados con los saberes de la materia de Biología y Geología, localizando y seleccionando información en diferentes formatos (modelos, gráficos, tablas,<br />diagramas, formulas, esquemas, símbolos, páginas web, etc.), explicando en una o más lenguas las principales teorías vinculadas con la materia y su relación con la mejora de la vida de las personas, iniciando una actitud crítica sobre la potencialidad de su propia participación en la toma de decisiones y expresando e interpretando conclusiones.<br /></p>\n<p>2.2. Localizar e identificar la información sobre temas biológicos y geológicos con base científica, a través de distintos medios, comparando aquellas fuentes que tengan criterios de validez, calidad, actualidad y fiabilidad, iniciar el proceso de contraste con las pseudociencias, bulos, teorías conspiratorias y<br />creencias infundadas, y elegir los elementos clave en su interpretación que le permitan mantener una actitud escéptica ante estos.</p>\n<p>3.1. Analizar preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.<br /></p>\n<p>5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera critica las actividades propias y ajenas, a partir de los propios razonamientos,<br />de los conocimientos adquiridos y de la información disponible.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+      <odeBlockId>block-1777412374063-2zy73iqu8</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+          <odeBlockId>block-1777412374063-2zy73iqu8</odeBlockId>
+          <odeIdeviceId>idevice-1777412374061-4wzg93uvp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="867" height="471" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777412374061-4wzg93uvp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"867\" height=\"471\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+      <odeBlockId>block-1777413277063-3fv1sn1rn</odeBlockId>
+      <blockName>Criterios y competencias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+          <odeBlockId>block-1777413277063-3fv1sn1rn</odeBlockId>
+          <odeIdeviceId>idevice-1777413277061-ewaujgcom</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.</strong><br /></p>
+<p>1.1. Identificar y describir conceptos y procesos biológicos y geológicos básicos<br />relacionados con los saberes de la materia de Biología y Geología, localizando y seleccionando información en diferentes formatos (modelos, gráficos, tablas,<br />diagramas, formulas, esquemas, símbolos, páginas web, etc.), explicando en una o más lenguas las principales teorías vinculadas con la materia y su relación con la mejora de la vida de las personas, iniciando una actitud crítica sobre la potencialidad de su propia participación en la toma de decisiones y expresando e interpretando conclusiones.</p>
+<p><strong>2. Identificar, localizar y seleccionar información, contrastando su veracidad,</strong><br /><strong>organizándose y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</strong></p>
+<p><br />2.2. Localizar e identificar la información sobre temas biológicos y geológicos con base científica, a través de distintos medios, comparando aquellas fuentes que tengan criterios de validez, calidad, actualidad y fiabilidad, iniciar el proceso de contraste con las pseudociencias, bulos, teorías conspiratorias y<br />creencias infundadas, y elegir los elementos clave en su interpretación que le permitan mantener una actitud escéptica ante estos.</p>
+<p><strong>3. Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las</strong><br /><strong>metodologías científicas y cooperando cuando sea necesario, para indagar en</strong><br /><strong>aspectos relacionados con las ciencias geológicas y biológicas.</strong><br /></p>
+<p>3.1. Analizar preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</p>
+<p><strong>5. Analizar los efectos de determinadas acciones sobre el medioambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra,</strong><br /><strong>para promover y adoptar hábitos que eviten o minimicen los impactos medio ambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva, todo ello teniendo como marco el entorno andaluz.</strong><br /><br />5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera critica las actividades propias y ajenas, a partir de los propios razonamientos,<br />de los conocimientos adquiridos y de la información disponible.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777413277061-ewaujgcom","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.</strong><br /></p>\n<p>1.1. Identificar y describir conceptos y procesos biológicos y geológicos básicos<br />relacionados con los saberes de la materia de Biología y Geología, localizando y seleccionando información en diferentes formatos (modelos, gráficos, tablas,<br />diagramas, formulas, esquemas, símbolos, páginas web, etc.), explicando en una o más lenguas las principales teorías vinculadas con la materia y su relación con la mejora de la vida de las personas, iniciando una actitud crítica sobre la potencialidad de su propia participación en la toma de decisiones y expresando e interpretando conclusiones.</p>\n<p><strong>2. Identificar, localizar y seleccionar información, contrastando su veracidad,</strong><br /><strong>organizándose y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</strong></p>\n<p><br />2.2. Localizar e identificar la información sobre temas biológicos y geológicos con base científica, a través de distintos medios, comparando aquellas fuentes que tengan criterios de validez, calidad, actualidad y fiabilidad, iniciar el proceso de contraste con las pseudociencias, bulos, teorías conspiratorias y<br />creencias infundadas, y elegir los elementos clave en su interpretación que le permitan mantener una actitud escéptica ante estos.</p>\n<p><strong>3. Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las</strong><br /><strong>metodologías científicas y cooperando cuando sea necesario, para indagar en</strong><br /><strong>aspectos relacionados con las ciencias geológicas y biológicas.</strong><br /></p>\n<p>3.1. Analizar preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</p>\n<p><strong>5. Analizar los efectos de determinadas acciones sobre el medioambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra,</strong><br /><strong>para promover y adoptar hábitos que eviten o minimicen los impactos medio ambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva, todo ello teniendo como marco el entorno andaluz.</strong><br /><br />5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera critica las actividades propias y ajenas, a partir de los propios razonamientos,<br />de los conocimientos adquiridos y de la información disponible.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+      <odeBlockId>block-1777413539288-yayds3465</odeBlockId>
+      <blockName>Observaciones y recomendaciones para el profesorado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdn-137zm6f2g</odePageId>
+          <odeBlockId>block-1777413539288-yayds3465</odeBlockId>
+          <odeIdeviceId>idevice-1777413539286-homc9b46i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las herramientas digitales propuestas deben ser sencillas, intuitivas y accesibles para el alumnado de 1.º de ESO, priorizando aquellas que permitan grabar, editar y compartir audio o vídeo de forma guiada y segura.</p>
+<p style="text-align: justify;">Se recomienda dedicar una sesión inicial a explicar el uso básico de las aplicaciones seleccionadas y establecer roles dentro de cada grupo (guionista, locutor/a, técnico/a, editor/a) para facilitar la organización del trabajo cooperativo.</p>
+<p style="text-align: justify;">Es conveniente proporcionar plantillas de guion y rúbricas claras de evaluación que orienten al alumnado durante todo el proceso. Asimismo, se aconseja supervisar aspectos relacionados con la protección de datos, el uso responsable de la imagen y la voz, y fomentar la revisión previa de los contenidos científicos para asegurar el rigor propio de la materia de Biología y Geología.</p>
+<p style="text-align: justify;">Finalmente, puede resultar útil realizar pequeños ensayos de grabación antes del producto final para mejorar la expresión oral, la competencia digital y la confianza del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777413539286-homc9b46i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las herramientas digitales propuestas deben ser sencillas, intuitivas y accesibles para el alumnado de 1.º de ESO, priorizando aquellas que permitan grabar, editar y compartir audio o vídeo de forma guiada y segura.</p>\n<p style=\"text-align: justify;\">Se recomienda dedicar una sesión inicial a explicar el uso básico de las aplicaciones seleccionadas y establecer roles dentro de cada grupo (guionista, locutor/a, técnico/a, editor/a) para facilitar la organización del trabajo cooperativo.</p>\n<p style=\"text-align: justify;\">Es conveniente proporcionar plantillas de guion y rúbricas claras de evaluación que orienten al alumnado durante todo el proceso. Asimismo, se aconseja supervisar aspectos relacionados con la protección de datos, el uso responsable de la imagen y la voz, y fomentar la revisión previa de los contenidos científicos para asegurar el rigor propio de la materia de Biología y Geología.</p>\n<p style=\"text-align: justify;\">Finalmente, puede resultar útil realizar pequeños ensayos de grabación antes del producto final para mejorar la expresión oral, la competencia digital y la confianza del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok2qfdp-l09fbz4kv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok2qfdp-l09fbz4kv</odePageId>
+      <odeBlockId>block-1777412852047-dgcy4z2h1</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok2qfdp-l09fbz4kv</odePageId>
+          <odeBlockId>block-1777412852047-dgcy4z2h1</odeBlockId>
+          <odeIdeviceId>idevice-1777412852044-se8jyu5zc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Aitana María Rosquete Zarza</p>
+<p><strong>Descripción</strong>: Este recurso educativo aborda el trabajo y elaboración de un proyecto sobre la conservación del MedioAmbiente, mediante las instrucciones de realización de un podcast de varios capítulos. Está dirigido al nivel de 1º ESO. Incluye contenidos teóricos, actividades prácticas y recursos interactivos elaborados con eXeLearning</p>
+<p><strong>Licencia de uso</strong>: Creative Commons BY</p>
+<p><strong title="Podcast del medio ambiente.elpx">Botón para la descarga</strong>: <a href="{{context_path}}/content/resources/Podcast del medio ambiente.elpx" title="Podcast del medio ambiente.elpx">Podcast del medio ambiente.elpx</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777412852044-se8jyu5zc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Aitana María Rosquete Zarza</p>\n<p><strong>Descripción</strong>: Este recurso educativo aborda el trabajo y elaboración de un proyecto sobre la conservación del MedioAmbiente, mediante las instrucciones de realización de un podcast de varios capítulos. Está dirigido al nivel de 1º ESO. Incluye contenidos teóricos, actividades prácticas y recursos interactivos elaborados con eXeLearning</p>\n<p><strong>Licencia de uso</strong>: Creative Commons BY</p>\n<p><strong title=\"Podcast del medio ambiente.elpx\">Botón para la descarga</strong>: <a href=\"{{context_path}}/content/resources/Podcast del medio ambiente.elpx\" title=\"Podcast del medio ambiente.elpx\">Podcast del medio ambiente.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
